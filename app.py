@@ -57,7 +57,8 @@ def get_cmds():
 @app.route('/')
 def slash():
     cmds = get_cmds()
-    return render_template('index.html', cmds=cmds)
+    letters = OrderedDict(sorted(repl_run("Packages.get('alphabet')._settings.letters").items()))
+    return render_template('index.html', cmds=cmds, letters=letters)
 
 if __name__ == '__main__':
     app.run(port=6001, debug=True)

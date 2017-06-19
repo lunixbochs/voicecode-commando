@@ -19,12 +19,12 @@ body {
     width: 130px;
     height: 24px;
 }
-.action, .action-symbol {
+.action, .action-symbol, .action-letter {
 	float: left;
 	width: 380px;
     overflow: hidden;
-    border-top: 1px black dotted;
-    border-left: 1px grey dotted;
+    border-top: 1px black dashed;
+    border-left: 1px lightgrey dotted;
     padding-left: 3px;
     white-space: nowrap;
     height: 24px;
@@ -38,8 +38,21 @@ body {
 .action-spoken, .action-desc {
 	display: inline;
 }
+.action-letter {
+    font-weight: bold;
+    width: 50px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
 </style>
 </head><body>
+<div class="scope">
+    <div class="scope-title">alphabet</div>
+    {% for letter, spoken in letters.items() %}
+    <div class="action-letter">{{ spoken }}</div>
+    {% endfor %}
+</div>
 <div class="scope">
     <div class="scope-title">symbols</div>
     {% for action in cmds.symbols %}
