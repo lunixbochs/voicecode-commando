@@ -7,8 +7,8 @@ pack.settings
     backgroundColor: '#FFFFFFFF'
 
 pack.commands
-  "help me": 
-    spoken: "help me"
+  "helper": 
+    spoken: "helper"
     description: "open command help"
     continuous: false
     enabled: true
@@ -20,8 +20,8 @@ pack.commands
         if win.isVisible()
           win.hide()
         else
+          win.reload()
           win.showInactive()
-          win.refresh()
       else
         win = windowController.new _name,
           x: 0
@@ -38,7 +38,8 @@ pack.commands
           autoHideMenuBar: true
           backgroundColor: pack.settings().win.backgroundColor
 
-          win.loadURL("http://localhost:6001")
-          # win.openDevTools()
-          win.setIgnoreMouseEvents true
-          win.maximize()
+        win.loadURL("http://localhost:6001")
+        # win.openDevTools()
+        win.setIgnoreMouseEvents true
+        win.maximize()
+        win.showInactive()
