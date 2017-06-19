@@ -11,7 +11,9 @@ subscribe 'currentApplicationChanged', ->
   if win?
     win.reload()
 
-subscribe 'chainWillExecute', ->
+subscribe 'chainWillExecute', (chain)->
+  if chain[0].command == 'help:commando'
+    return
   win = windowController.get('commandSheet')
   if win?
     win.hide()
