@@ -1,0 +1,80 @@
+<html><head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style type="text/css">
+body {
+    margin: 5px;
+    padding: 0;
+    margin-left: 140px;
+}
+.scope {
+    clear: left;
+    margin: 0;
+}
+.scope-title {
+    margin-left: -130px;
+    float: left;
+    display: inline;
+    font-weight: bold;
+    /* text-align: right; */
+    width: 130px;
+    height: 24px;
+}
+.action, .action-symbol {
+	float: left;
+	width: 380px;
+    overflow: hidden;
+    border-top: 1px black dotted;
+    border-left: 1px grey dotted;
+    padding-left: 3px;
+    white-space: nowrap;
+    height: 24px;
+}
+.action-symbol {
+    width: 130px;
+}
+.action-spoken {
+    font-weight: bold;
+}
+.action-spoken, .action-desc {
+	display: inline;
+}
+</style>
+</head><body>
+<div class="scope">
+    <div class="scope-title">symbols</div>
+    {% for action in cmds.symbols %}
+    {% if action.spoken and action.enabled and action.description|length <= 2 %}
+        <div class="action-symbol">
+            <div class="action-spoken">{{ action.spoken }}:</div>
+            <div class="action-desc">{{ action.description }}</div>
+        </div>
+        {% endif %}
+    {% endfor %}
+</div>
+<div class="scope">
+    <div class="scope-title">compound symbols</div>
+    {% for action in cmds.symbols %}
+        {% if action.spoken and action.enabled and action.description|length > 2 %}
+        <div class="action">
+            <div class="action-spoken">{{ action.spoken }}:</div>
+            <div class="action-desc">{{ action.description }}</div>
+        </div>
+        {% endif %}
+    {% endfor %}
+</div>
+{% for scope, actions in cmds.items() %}
+{% if scope != 'symbols' %}
+    <div class="scope">
+        <div class="scope-title">{{ scope }}</div>
+        {% for action in actions %}
+            {% if action.spoken and action.enabled %}
+            <div class="action">
+                <div class="action-spoken">{{ action.spoken }}:</div>
+                <div class="action-desc">{{ action.description }}</div>
+            </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+{% endif %}
+{% endfor %}
+</body></html>
