@@ -1,15 +1,25 @@
 pack = Packages.register
-  name: "help window"
+  name: "help"
   description: "adding help mode for voicecode"
 
 pack.settings
   win:
     backgroundColor: '#FFFFFFFF'
 
+subscribe 'currentApplicationChanged', ->
+  win = windowController.get('commandSheet')
+  if win?
+    win.reload()
+
+subscribe 'chainWillExecute', ->
+  win = windowController.get('commandSheet')
+  if win?
+    win.hide()
+
 pack.commands
-  "helper": 
-    spoken: "helper"
-    description: "open command help"
+  "commando": 
+    spoken: "commando"
+    description: "toggle command help"
     continuous: false
     enabled: true
     # grammarType: "textCapture"
@@ -20,7 +30,6 @@ pack.commands
         if win.isVisible()
           win.hide()
         else
-          win.reload()
           win.showInactive()
       else
         win = windowController.new _name,
