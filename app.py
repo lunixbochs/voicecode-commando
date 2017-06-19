@@ -8,6 +8,7 @@ app = Flask('voice')
 
 SKIP_PACKAGE = [
     'words',
+    'dragon_darwin',
 ]
 
 def repl_run(expr):
