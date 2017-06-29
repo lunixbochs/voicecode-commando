@@ -19,7 +19,7 @@ subscribe 'chainWillExecute', (chain)->
     win.hide()
 
 pack.commands
-  "commando": 
+  "commando":
     spoken: "commando"
     description: "toggle command help"
     continuous: false

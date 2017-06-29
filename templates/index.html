@@ -1,64 +1,71 @@
 <html><head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style type="text/css">
-body {
-    margin: 5px;
-    padding: 0;
-    margin-left: 140px;
-}
-.scope {
-    clear: left;
+
+html, body, .container {
+    height: 100%;
     margin: 0;
 }
+
+.container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.scope {
+  background: #f1f1f1;
+  margin: 3px;
+  padding: 0 2px 0 3px;
+  max-width: 390px;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-radius: 5px;
+}
+
 .scope-title {
-    margin-left: -130px;
-    float: left;
-    display: inline;
-    font-weight: bold;
-    /* text-align: right; */
-    width: 130px;
-    height: 24px;
+    font-style: italic;
 }
-.action, .action-symbol, .action-letter {
-	float: left;
-	width: 380px;
-    overflow: hidden;
-    border-top: 1px black dashed;
-    border-left: 1px lightgrey dotted;
-    padding-left: 3px;
-    white-space: nowrap;
-    height: 24px;
-}
-.action-symbol {
-    width: 130px;
+
+.action {
+    display: table-row;
 }
 .action-spoken {
     font-weight: bold;
+    padding-right: 5px;
+    display: table-cell;
 }
-.action-spoken, .action-desc {
-	display: inline;
-}
-.action-letter {
+.action-letter > .action-desc, .action-symbol > .action-desc {
+    text-align: right;
     font-weight: bold;
-    width: 50px;
-    text-align: center;
-    padding: 0;
-    margin: 0;
+}
+.action-desc {
+    line-height: 1.2em;
+    display: table-cell;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: -1px;
+}
+.action:last-child > .action-desc {
+    border: none;
 }
 </style>
 </head><body>
+<div class="container">
 <div class="scope">
     <div class="scope-title">alphabet</div>
     {% for letter, spoken in letters.items() %}
-    <div class="action-letter">{{ spoken }}</div>
+    <div class="action action-letter">
+        <div class="action-spoken">{{ spoken }}</div>
+        <div class="action-desc">{{ spoken[0]|upper }}</div>
+    </div>
     {% endfor %}
 </div>
 <div class="scope">
     <div class="scope-title">symbols</div>
     {% for action in cmds.symbols %}
     {% if action.spoken and action.enabled and action.description|length <= 2 %}
-        <div class="action-symbol">
-            <div class="action-spoken">{{ action.spoken }}:</div>
+        <div class="action action-symbol">
+            <div class="action-spoken">{{ action.spoken }}</div>
             <div class="action-desc">{{ action.description }}</div>
         </div>
         {% endif %}
@@ -69,7 +76,7 @@ body {
     {% for action in cmds.symbols %}
         {% if action.spoken and action.enabled and action.description|length > 2 %}
         <div class="action">
-            <div class="action-spoken">{{ action.spoken }}:</div>
+            <div class="action-spoken">{{ action.spoken }}</div>
             <div class="action-desc">{{ action.description }}</div>
         </div>
         {% endif %}
@@ -82,7 +89,7 @@ body {
         {% for action in actions %}
             {% if action.spoken and action.enabled %}
             <div class="action">
-                <div class="action-spoken">{{ action.spoken }}:</div>
+                <div class="action-spoken">{{ action.spoken }}</div>
                 <div class="action-desc">{{ action.description }}</div>
             </div>
             {% endif %}
@@ -90,4 +97,6 @@ body {
     </div>
 {% endif %}
 {% endfor %}
-</body></html>
+</div>
+</body>
+</html>
