@@ -52,7 +52,7 @@ def get_cmds():
             desc = desc[:17] + '...'
         attrs['shortdesc'] = desc
 
-    ret = OrderedDict(sorted([(key, sorted(val, key=lambda x: (x['description'].lower(), x['spoken']))) for key, val in ret.items()]))
+    ret = OrderedDict(sorted([(key, sorted(val, key=lambda x: (x.get('description', '').lower(), x['spoken']))) for key, val in ret.items()]))
     return ret
 
 @app.route('/')
