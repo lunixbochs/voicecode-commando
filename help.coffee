@@ -8,8 +8,7 @@ pack.settings
 
 subscribe 'currentApplicationChanged', ->
   win = windowController.get('commandSheet')
-  if win?
-    win.reload()
+  win?.reload()
 
 subscribe 'chainWillExecute', (chain)->
   if chain[0].command != 'help:commando'
@@ -54,7 +53,7 @@ pack.commands
         win.maximize()
         win.showInactive()
   "command-keys":
-    spoken: "command keys"
+    spoken: "key lime"
     description: "toggle keyboard help"
     continuous: false
     enabled: true
@@ -82,7 +81,7 @@ pack.commands
           autoHideMenuBar: true
           backgroundColor: pack.settings().win.backgroundColor
 
-        win.loadURL("http://localhost:6001/static/keyboard.svg")
+        win.loadURL("http://localhost:6001/static/keyboard.svg", {"extraHeaders" : "pragma: no-cache\n"})
         win.setIgnoreMouseEvents true
         win.maximize()
         win.showInactive()
