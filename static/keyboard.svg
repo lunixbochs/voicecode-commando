@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1620 663" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;">
+    <g id="Keys" transform="matrix(1,0,0,1,298,-511.924)">
+        <g id="rect5898" transform="matrix(2.09893,0,0,1,-25.5172,0)">
+            <path d="M75.78,659.6C75.78,658.209 74.837,657.08 73.675,657.08L25.325,657.08C24.163,657.08 23.22,658.209 23.22,659.6L23.22,689.12C23.22,690.511 24.163,691.64 25.325,691.64L73.675,691.64C74.837,691.64 75.78,690.511 75.78,689.12L75.78,659.6Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:0.85px;"/>
+        </g>
+        <path id="rect5934" d="M66.78,700.46C66.78,699.069 65.651,697.94 64.26,697.94L25.74,697.94C24.349,697.94 23.22,699.069 23.22,700.46L23.22,756.62C23.22,758.011 24.349,759.14 25.74,759.14L64.26,759.14C65.651,759.14 66.78,758.011 66.78,756.62L66.78,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect5946" d="M134.28,700.46C134.28,699.069 133.151,697.94 131.76,697.94L75.6,697.94C74.209,697.94 73.08,699.069 73.08,700.46L73.08,756.62C73.08,758.011 74.209,759.14 75.6,759.14L131.76,759.14C133.151,759.14 134.28,758.011 134.28,756.62L134.28,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect5948" d="M201.78,700.46C201.78,699.069 200.651,697.94 199.26,697.94L143.1,697.94C141.709,697.94 140.58,699.069 140.58,700.46L140.58,756.62C140.58,758.011 141.709,759.14 143.1,759.14L199.26,759.14C200.651,759.14 201.78,758.011 201.78,756.62L201.78,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect5950" d="M269.28,700.46C269.28,699.069 268.151,697.94 266.76,697.94L210.6,697.94C209.209,697.94 208.08,699.069 208.08,700.46L208.08,756.62C208.08,758.011 209.209,759.14 210.6,759.14L266.76,759.14C268.151,759.14 269.28,758.011 269.28,756.62L269.28,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect5952" d="M336.78,700.46C336.78,699.069 335.651,697.94 334.26,697.94L278.1,697.94C276.709,697.94 275.58,699.069 275.58,700.46L275.58,756.62C275.58,758.011 276.709,759.14 278.1,759.14L334.26,759.14C335.651,759.14 336.78,758.011 336.78,756.62L336.78,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect5954" d="M404.28,700.46C404.28,699.069 403.151,697.94 401.76,697.94L345.6,697.94C344.209,697.94 343.08,699.069 343.08,700.46L343.08,756.62C343.08,758.011 344.209,759.14 345.6,759.14L401.76,759.14C403.151,759.14 404.28,758.011 404.28,756.62L404.28,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect5956" d="M471.78,700.46C471.78,699.069 470.651,697.94 469.26,697.94L413.1,697.94C411.709,697.94 410.58,699.069 410.58,700.46L410.58,756.62C410.58,758.011 411.709,759.14 413.1,759.14L469.26,759.14C470.651,759.14 471.78,758.011 471.78,756.62L471.78,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect5958" d="M539.28,700.46C539.28,699.069 538.151,697.94 536.76,697.94L480.6,697.94C479.209,697.94 478.08,699.069 478.08,700.46L478.08,756.62C478.08,758.011 479.209,759.14 480.6,759.14L536.76,759.14C538.151,759.14 539.28,758.011 539.28,756.62L539.28,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect5960" d="M606.78,700.46C606.78,699.069 605.651,697.94 604.26,697.94L548.1,697.94C546.709,697.94 545.58,699.069 545.58,700.46L545.58,756.62C545.58,758.011 546.709,759.14 548.1,759.14L604.26,759.14C605.651,759.14 606.78,758.011 606.78,756.62L606.78,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect5962" d="M674.28,700.46C674.28,699.069 673.151,697.94 671.76,697.94L615.6,697.94C614.209,697.94 613.08,699.069 613.08,700.46L613.08,756.62C613.08,758.011 614.209,759.14 615.6,759.14L671.76,759.14C673.151,759.14 674.28,758.011 674.28,756.62L674.28,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect5964" d="M741.78,700.46C741.78,699.069 740.651,697.94 739.26,697.94L683.1,697.94C681.709,697.94 680.58,699.069 680.58,700.46L680.58,756.62C680.58,758.011 681.709,759.14 683.1,759.14L739.26,759.14C740.651,759.14 741.78,758.011 741.78,756.62L741.78,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect5966" d="M809.28,700.46C809.28,699.069 808.151,697.94 806.76,697.94L750.6,697.94C749.209,697.94 748.08,699.069 748.08,700.46L748.08,756.62C748.08,758.011 749.209,759.14 750.6,759.14L806.76,759.14C808.151,759.14 809.28,758.011 809.28,756.62L809.28,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <g id="rect59661" transform="matrix(1,0,0,1,34.8907,67.5613)">
+            <path d="M809.28,700.46C809.28,699.069 808.151,697.94 806.76,697.94L750.6,697.94C749.209,697.94 748.08,699.069 748.08,700.46L748.08,756.62C748.08,758.011 749.209,759.14 750.6,759.14L806.76,759.14C808.151,759.14 809.28,758.011 809.28,756.62L809.28,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <g id="rect59662" transform="matrix(1,0,0,1,51.39,134.81)">
+            <path d="M809.28,700.46C809.28,699.069 808.151,697.94 806.76,697.94L750.6,697.94C749.209,697.94 748.08,699.069 748.08,700.46L748.08,756.62C748.08,758.011 749.209,759.14 750.6,759.14L806.76,759.14C808.151,759.14 809.28,758.011 809.28,756.62L809.28,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <g id="rect59663" transform="matrix(1,0,0,1,-16.11,135.166)">
+            <path d="M809.28,700.46C809.28,699.069 808.151,697.94 806.76,697.94L750.6,697.94C749.209,697.94 748.08,699.069 748.08,700.46L748.08,756.62C748.08,758.011 749.209,759.14 750.6,759.14L806.76,759.14C808.151,759.14 809.28,758.011 809.28,756.62L809.28,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <g id="rect59664" transform="matrix(1,0,0,1,-49.8596,202.558)">
+            <path d="M809.28,700.46C809.28,699.069 808.151,697.94 806.76,697.94L750.6,697.94C749.209,697.94 748.08,699.069 748.08,700.46L748.08,756.62C748.08,758.011 749.209,759.14 750.6,759.14L806.76,759.14C808.151,759.14 809.28,758.011 809.28,756.62L809.28,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <g id="rect59665" transform="matrix(1,0,0,1,-117.358,202.558)">
+            <path d="M809.28,700.46C809.28,699.069 808.151,697.94 806.76,697.94L750.6,697.94C749.209,697.94 748.08,699.069 748.08,700.46L748.08,756.62C748.08,758.011 749.209,759.14 750.6,759.14L806.76,759.14C808.151,759.14 809.28,758.011 809.28,756.62L809.28,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <g id="rect59666" transform="matrix(1,0,0,1,17.8855,202.558)">
+            <path d="M809.28,700.46C809.28,699.069 808.151,697.94 806.76,697.94L750.6,697.94C749.209,697.94 748.08,699.069 748.08,700.46L748.08,756.62C748.08,758.011 749.209,759.14 750.6,759.14L806.76,759.14C808.151,759.14 809.28,758.011 809.28,756.62L809.28,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <g id="rect59667" transform="matrix(1,0,0,1,102.24,67.5613)">
+            <path d="M809.28,700.46C809.28,699.069 808.151,697.94 806.76,697.94L750.6,697.94C749.209,697.94 748.08,699.069 748.08,700.46L748.08,756.62C748.08,758.011 749.209,759.14 750.6,759.14L806.76,759.14C808.151,759.14 809.28,758.011 809.28,756.62L809.28,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <path id="rect5968" d="M876.78,700.46C876.78,699.069 875.651,697.94 874.26,697.94L818.1,697.94C816.709,697.94 815.58,699.069 815.58,700.46L815.58,756.62C815.58,758.011 816.709,759.14 818.1,759.14L874.26,759.14C875.651,759.14 876.78,758.011 876.78,756.62L876.78,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <g id="rect5970" transform="matrix(0.872294,0,0,1,114.046,0)">
+            <path d="M1011.78,700.46C1011.78,699.069 1010.49,697.94 1008.89,697.94L885.969,697.94C884.374,697.94 883.08,699.069 883.08,700.46L883.08,756.62C883.08,758.011 884.374,759.14 885.969,759.14L1008.89,759.14C1010.49,759.14 1011.78,758.011 1011.78,756.62L1011.78,700.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <path id="rect5972" d="M101.52,767.96C101.52,766.569 100.391,765.44 99,765.44L25.74,765.44C24.349,765.44 23.22,766.569 23.22,767.96L23.22,824.12C23.22,825.511 24.349,826.64 25.74,826.64L99,826.64C100.391,826.64 101.52,825.511 101.52,824.12L101.52,767.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4342" d="M169.02,767.96C169.02,766.569 167.891,765.44 166.5,765.44L110.34,765.44C108.949,765.44 107.82,766.569 107.82,767.96L107.82,824.12C107.82,825.511 108.949,826.64 110.34,826.64L166.5,826.64C167.891,826.64 169.02,825.511 169.02,824.12L169.02,767.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4344" d="M236.52,767.96C236.52,766.569 235.391,765.44 234,765.44L177.84,765.44C176.449,765.44 175.32,766.569 175.32,767.96L175.32,824.12C175.32,825.511 176.449,826.64 177.84,826.64L234,826.64C235.391,826.64 236.52,825.511 236.52,824.12L236.52,767.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4346" d="M304.02,767.96C304.02,766.569 302.891,765.44 301.5,765.44L245.34,765.44C243.949,765.44 242.82,766.569 242.82,767.96L242.82,824.12C242.82,825.511 243.949,826.64 245.34,826.64L301.5,826.64C302.891,826.64 304.02,825.511 304.02,824.12L304.02,767.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4348" d="M371.52,767.96C371.52,766.569 370.391,765.44 369,765.44L312.84,765.44C311.449,765.44 310.32,766.569 310.32,767.96L310.32,824.12C310.32,825.511 311.449,826.64 312.84,826.64L369,826.64C370.391,826.64 371.52,825.511 371.52,824.12L371.52,767.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4350" d="M439.02,767.96C439.02,766.569 437.891,765.44 436.5,765.44L380.34,765.44C378.949,765.44 377.82,766.569 377.82,767.96L377.82,824.12C377.82,825.511 378.949,826.64 380.34,826.64L436.5,826.64C437.891,826.64 439.02,825.511 439.02,824.12L439.02,767.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4352" d="M506.52,767.96C506.52,766.569 505.391,765.44 504,765.44L447.84,765.44C446.449,765.44 445.32,766.569 445.32,767.96L445.32,824.12C445.32,825.511 446.449,826.64 447.84,826.64L504,826.64C505.391,826.64 506.52,825.511 506.52,824.12L506.52,767.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4354" d="M574.02,767.96C574.02,766.569 572.891,765.44 571.5,765.44L515.34,765.44C513.949,765.44 512.82,766.569 512.82,767.96L512.82,824.12C512.82,825.511 513.949,826.64 515.34,826.64L571.5,826.64C572.891,826.64 574.02,825.511 574.02,824.12L574.02,767.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4356" d="M641.52,767.96C641.52,766.569 640.391,765.44 639,765.44L582.84,765.44C581.449,765.44 580.32,766.569 580.32,767.96L580.32,824.12C580.32,825.511 581.449,826.64 582.84,826.64L639,826.64C640.391,826.64 641.52,825.511 641.52,824.12L641.52,767.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4358" d="M709.02,767.96C709.02,766.569 707.891,765.44 706.5,765.44L650.34,765.44C648.949,765.44 647.82,766.569 647.82,767.96L647.82,824.12C647.82,825.511 648.949,826.64 650.34,826.64L706.5,826.64C707.891,826.64 709.02,825.511 709.02,824.12L709.02,767.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4360" d="M776.52,767.96C776.52,766.569 775.391,765.44 774,765.44L717.84,765.44C716.449,765.44 715.32,766.569 715.32,767.96L715.32,824.12C715.32,825.511 716.449,826.64 717.84,826.64L774,826.64C775.391,826.64 776.52,825.511 776.52,824.12L776.52,767.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <g id="rect4366" transform="matrix(0.833333,0,0,1,153.121,0)">
+            <path d="M1011.78,767.96C1011.78,766.569 1010.43,765.44 1008.76,765.44L920.844,765.44C919.175,765.44 917.82,766.569 917.82,767.96L917.82,824.12C917.82,825.511 919.175,826.64 920.844,826.64L1008.76,826.64C1010.43,826.64 1011.78,825.511 1011.78,824.12L1011.78,767.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <path id="rect4370" d="M185.67,835.46C185.67,834.069 184.541,832.94 183.15,832.94L126.99,832.94C125.599,832.94 124.47,834.069 124.47,835.46L124.47,891.62C124.47,893.011 125.599,894.14 126.99,894.14L183.15,894.14C184.541,894.14 185.67,893.011 185.67,891.62L185.67,835.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4372" d="M253.17,835.46C253.17,834.069 252.041,832.94 250.65,832.94L194.49,832.94C193.099,832.94 191.97,834.069 191.97,835.46L191.97,891.62C191.97,893.011 193.099,894.14 194.49,894.14L250.65,894.14C252.041,894.14 253.17,893.011 253.17,891.62L253.17,835.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4374" d="M320.67,835.46C320.67,834.069 319.541,832.94 318.15,832.94L261.99,832.94C260.599,832.94 259.47,834.069 259.47,835.46L259.47,891.62C259.47,893.011 260.599,894.14 261.99,894.14L318.15,894.14C319.541,894.14 320.67,893.011 320.67,891.62L320.67,835.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4376" d="M388.17,835.46C388.17,834.069 387.041,832.94 385.65,832.94L329.49,832.94C328.099,832.94 326.97,834.069 326.97,835.46L326.97,891.62C326.97,893.011 328.099,894.14 329.49,894.14L385.65,894.14C387.041,894.14 388.17,893.011 388.17,891.62L388.17,835.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4378" d="M455.67,835.46C455.67,834.069 454.541,832.94 453.15,832.94L396.99,832.94C395.599,832.94 394.47,834.069 394.47,835.46L394.47,891.62C394.47,893.011 395.599,894.14 396.99,894.14L453.15,894.14C454.541,894.14 455.67,893.011 455.67,891.62L455.67,835.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4380" d="M523.17,835.46C523.17,834.069 522.041,832.94 520.65,832.94L464.49,832.94C463.099,832.94 461.97,834.069 461.97,835.46L461.97,891.62C461.97,893.011 463.099,894.14 464.49,894.14L520.65,894.14C522.041,894.14 523.17,893.011 523.17,891.62L523.17,835.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4382" d="M590.67,835.46C590.67,834.069 589.541,832.94 588.15,832.94L531.99,832.94C530.599,832.94 529.47,834.069 529.47,835.46L529.47,891.62C529.47,893.011 530.599,894.14 531.99,894.14L588.15,894.14C589.541,894.14 590.67,893.011 590.67,891.62L590.67,835.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4384" d="M658.17,835.46C658.17,834.069 657.041,832.94 655.65,832.94L599.49,832.94C598.099,832.94 596.97,834.069 596.97,835.46L596.97,891.62C596.97,893.011 598.099,894.14 599.49,894.14L655.65,894.14C657.041,894.14 658.17,893.011 658.17,891.62L658.17,835.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4386" d="M725.67,835.46C725.67,834.069 724.541,832.94 723.15,832.94L666.99,832.94C665.599,832.94 664.47,834.069 664.47,835.46L664.47,891.62C664.47,893.011 665.599,894.14 666.99,894.14L723.15,894.14C724.541,894.14 725.67,893.011 725.67,891.62L725.67,835.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <g id="rect4392" transform="matrix(0.880531,0,0,1,105.367,0)">
+            <path d="M1011.78,835.46C1011.78,834.069 1010.5,832.94 1008.92,832.94L869.832,832.94C868.252,832.94 866.97,834.069 866.97,835.46L866.97,891.62C866.97,893.011 868.252,894.14 869.832,894.14L1008.92,894.14C1010.5,894.14 1011.78,893.011 1011.78,891.62L1011.78,835.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <path id="rect4396" d="M219.42,902.96C219.42,901.569 218.291,900.44 216.9,900.44L160.74,900.44C159.349,900.44 158.22,901.569 158.22,902.96L158.22,959.12C158.22,960.511 159.349,961.64 160.74,961.64L216.9,961.64C218.291,961.64 219.42,960.511 219.42,959.12L219.42,902.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4398" d="M286.92,902.96C286.92,901.569 285.791,900.44 284.4,900.44L228.24,900.44C226.849,900.44 225.72,901.569 225.72,902.96L225.72,959.12C225.72,960.511 226.849,961.64 228.24,961.64L284.4,961.64C285.791,961.64 286.92,960.511 286.92,959.12L286.92,902.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4400" d="M354.42,902.96C354.42,901.569 353.291,900.44 351.9,900.44L295.74,900.44C294.349,900.44 293.22,901.569 293.22,902.96L293.22,959.12C293.22,960.511 294.349,961.64 295.74,961.64L351.9,961.64C353.291,961.64 354.42,960.511 354.42,959.12L354.42,902.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4402" d="M421.92,902.96C421.92,901.569 420.791,900.44 419.4,900.44L363.24,900.44C361.849,900.44 360.72,901.569 360.72,902.96L360.72,959.12C360.72,960.511 361.849,961.64 363.24,961.64L419.4,961.64C420.791,961.64 421.92,960.511 421.92,959.12L421.92,902.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4404" d="M489.42,902.96C489.42,901.569 488.291,900.44 486.9,900.44L430.74,900.44C429.349,900.44 428.22,901.569 428.22,902.96L428.22,959.12C428.22,960.511 429.349,961.64 430.74,961.64L486.9,961.64C488.291,961.64 489.42,960.511 489.42,959.12L489.42,902.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4406" d="M556.92,902.96C556.92,901.569 555.791,900.44 554.4,900.44L498.24,900.44C496.849,900.44 495.72,901.569 495.72,902.96L495.72,959.12C495.72,960.511 496.849,961.64 498.24,961.64L554.4,961.64C555.791,961.64 556.92,960.511 556.92,959.12L556.92,902.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4408" d="M624.42,902.96C624.42,901.569 623.291,900.44 621.9,900.44L565.74,900.44C564.349,900.44 563.22,901.569 563.22,902.96L563.22,959.12C563.22,960.511 564.349,961.64 565.74,961.64L621.9,961.64C623.291,961.64 624.42,960.511 624.42,959.12L624.42,902.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4410" d="M691.92,902.96C691.92,901.569 690.791,900.44 689.4,900.44L633.24,900.44C631.849,900.44 630.72,901.569 630.72,902.96L630.72,959.12C630.72,960.511 631.849,961.64 633.24,961.64L689.4,961.64C690.791,961.64 691.92,960.511 691.92,959.12L691.92,902.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <path id="rect4412" d="M759.42,902.96C759.42,901.569 758.291,900.44 756.9,900.44L700.74,900.44C699.349,900.44 698.22,901.569 698.22,902.96L698.22,959.12C698.22,960.511 699.349,961.64 700.74,961.64L756.9,961.64C758.291,961.64 759.42,960.511 759.42,959.12L759.42,902.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        <g id="rect4426" transform="matrix(1.05747,0,0,1,-16.8517,0)">
+            <path d="M606.42,970.46C606.42,969.069 605.352,967.94 604.037,967.94L295.603,967.94C294.288,967.94 293.22,969.069 293.22,970.46L293.22,1026.62C293.22,1028.01 294.288,1029.14 295.603,1029.14L604.037,1029.14C605.352,1029.14 606.42,1028.01 606.42,1026.62L606.42,970.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.36px;"/>
+        </g>
+        <g id="rect4436" transform="matrix(1,0,0,1,-14.8042,0.01)">
+            <path d="M943.92,970.46C943.92,969.069 942.791,967.94 941.4,967.94L885.24,967.94C883.849,967.94 882.72,969.069 882.72,970.46L882.72,992.87C882.72,994.261 883.849,995.39 885.24,995.39L941.4,995.39C942.791,995.39 943.92,994.261 943.92,992.87L943.92,970.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <g id="rect4438" transform="matrix(1,0,0,1,-14.8042,0.01)">
+            <path d="M876.42,1004.22C876.42,1002.83 875.291,1001.7 873.9,1001.7L817.74,1001.7C816.349,1001.7 815.22,1002.83 815.22,1004.22L815.22,1026.63C815.22,1028.02 816.349,1029.15 817.74,1029.15L873.9,1029.15C875.291,1029.15 876.42,1028.02 876.42,1026.63L876.42,1004.22Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <g id="rect44381" transform="matrix(1,0,0,1,-14.8042,-34.293)">
+            <path d="M876.42,1004.22C876.42,1002.83 875.291,1001.7 873.9,1001.7L817.74,1001.7C816.349,1001.7 815.22,1002.83 815.22,1004.22L815.22,1026.63C815.22,1028.02 816.349,1029.15 817.74,1029.15L873.9,1029.15C875.291,1029.15 876.42,1028.02 876.42,1026.63L876.42,1004.22Z" style="fill:none;stroke:rgb(234,234,234);stroke-width:1.44px;"/>
+        </g>
+        <g id="rect44382" transform="matrix(1,0,0,1,120.545,-33.5676)">
+            <path d="M876.42,1004.22C876.42,1002.83 875.291,1001.7 873.9,1001.7L817.74,1001.7C816.349,1001.7 815.22,1002.83 815.22,1004.22L815.22,1026.63C815.22,1028.02 816.349,1029.15 817.74,1029.15L873.9,1029.15C875.291,1029.15 876.42,1028.02 876.42,1026.63L876.42,1004.22Z" style="fill:none;stroke:rgb(234,234,234);stroke-width:1.44px;"/>
+        </g>
+        <g id="rect4440" transform="matrix(1,0,0,1,-14.8042,0.01)">
+            <path d="M943.92,1004.22C943.92,1002.83 942.791,1001.7 941.4,1001.7L885.24,1001.7C883.849,1001.7 882.72,1002.83 882.72,1004.22L882.72,1026.63C882.72,1028.02 883.849,1029.15 885.24,1029.15L941.4,1029.15C942.791,1029.15 943.92,1028.02 943.92,1026.63L943.92,1004.22Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <g id="rect4442" transform="matrix(1,0,0,1,-14.8042,0.01)">
+            <path d="M1011.42,1004.22C1011.42,1002.83 1010.29,1001.7 1008.9,1001.7L952.74,1001.7C951.349,1001.7 950.22,1002.83 950.22,1004.22L950.22,1026.63C950.22,1028.02 951.349,1029.15 952.74,1029.15L1008.9,1029.15C1010.29,1029.15 1011.42,1028.02 1011.42,1026.63L1011.42,1004.22Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.4px;"/>
+        </g>
+        <g id="rect4394" transform="matrix(1,0,0,1,0.0003964,-0.01)">
+            <path d="M151.92,902.96C151.92,901.569 150.791,900.44 149.4,900.44L25.74,900.44C24.349,900.44 23.22,901.569 23.22,902.96L23.22,959.12C23.22,960.511 24.349,961.64 25.74,961.64L149.4,961.64C150.791,961.64 151.92,960.511 151.92,959.12L151.92,902.96Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <g id="rect4418" transform="matrix(0.90518,0,0,1,2.20212,-1.13687e-13)">
+            <path d="M84.42,970.46C84.42,969.069 83.173,967.94 81.636,967.94L26.004,967.94C24.467,967.94 23.22,969.069 23.22,970.46L23.22,1026.62C23.22,1028.01 24.467,1029.14 26.004,1029.14L81.636,1029.14C83.173,1029.14 84.42,1028.01 84.42,1026.62L84.42,970.46Z" style="fill:none;stroke:rgb(234,234,234);stroke-width:1.44px;"/>
+        </g>
+        <g id="rect4420" transform="matrix(0.90518,0,0,1,1.94949,-1.13687e-13)">
+            <path d="M151.92,970.46C151.92,969.069 150.673,967.94 149.136,967.94L93.504,967.94C91.967,967.94 90.72,969.069 90.72,970.46L90.72,1026.62C90.72,1028.01 91.967,1029.14 93.504,1029.14L149.136,1029.14C150.673,1029.14 151.92,1028.01 151.92,1026.62L151.92,970.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <g id="rect4422" transform="matrix(0.90518,0,0,1,1.69687,-1.13687e-13)">
+            <path d="M219.42,970.46C219.42,969.069 218.173,967.94 216.636,967.94L161.004,967.94C159.467,967.94 158.22,969.069 158.22,970.46L158.22,1026.62C158.22,1028.01 159.467,1029.14 161.004,1029.14L216.636,1029.14C218.173,1029.14 219.42,1028.01 219.42,1026.62L219.42,970.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+        <g id="rect44301" transform="matrix(1.31224,0,0,1,-597.423,-0.01)">
+            <path d="M673.92,970.46C673.92,969.069 673.06,967.94 672,967.94L614.64,967.94C613.58,967.94 612.72,969.069 612.72,970.46L612.72,1026.62C612.72,1028.01 613.58,1029.14 614.64,1029.14L672,1029.14C673.06,1029.14 673.92,1028.01 673.92,1026.62L673.92,970.46Z" style="fill:none;stroke:rgb(210,210,210);stroke-width:1.44px;"/>
+        </g>
+    </g>
+    <g id="Key.2e..-labels" transform="matrix(1,0,0,1,298,121.936)">
+        <g id="text4944" transform="matrix(1.19704,0,0,1,30.4962,39.2423)">
+            <g transform="matrix(0.835385,0,0,1,0,0)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(179,179,179);">esc</text>
+            </g>
+            <g transform="matrix(0.835385,0,0,1,0,13.2)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">randall</text>
+            </g>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,890.241,82.9008)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">delete</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,890.241,99.4008)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">junk</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,30.3996,150.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">tab</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,30.3996,162.541)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(104,104,104);">tarp</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,114.998,150.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">Q</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,114.998,162.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">quash</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,182.496,150.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">W</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,182.496,162.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">womp</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,249.995,150.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">E</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,249.995,162.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">etch</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,317.493,150.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">R</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,317.493,162.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">rosh</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,384.992,150.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">T</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,384.992,162.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">teek</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,452.49,150.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">Y</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,452.49,162.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">yang</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,519.989,150.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">U</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,519.989,162.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">unks</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,587.487,150.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">I</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,587.487,162.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">ice</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,654.986,150.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">O</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,654.986,162.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">ork</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,722.485,150.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">P</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,722.485,162.4)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">pooch</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,131.647,217.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">A</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,131.647,229.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">arch</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,199.146,217.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">S</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,199.146,229.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">souk</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,266.644,217.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">D</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,266.644,229.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">dell</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,334.143,217.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">F</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,334.143,229.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">fomp</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,401.641,217.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">G</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,401.641,229.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">goof</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,469.14,217.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">H</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,469.14,229.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">hark</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,536.639,217.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">J</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,536.639,229.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">jinks</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,604.137,217.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">K</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,604.137,229.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">koop</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,671.636,217.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">L</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,671.636,229.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">lug</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,874.131,217.899)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">enter</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,874.131,234.399)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(106,106,106);">shock</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,165.397,285.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">Z</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,30.2238,285.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">shift</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,437.209,359.408)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">space</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,165.397,297.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">zooch</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,30.1242,297.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">chiﬀ</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,89.5063,349.576)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">control</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,89.4067,361.576)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">troll</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,150.358,349.576)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">alt</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,150.258,361.576)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">chop</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,213.806,349.576)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">command</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,213.706,361.576)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">chom</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,232.895,285.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">X</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,232.895,297.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">trex</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,300.394,285.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">C</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,300.394,297.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">char</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,367.892,285.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">V</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,367.892,297.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">verge</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,435.391,285.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">B</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,435.391,297.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">brov</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,437.209,372.106)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">skoosh</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,502.889,285.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">N</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,502.889,297.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">nerb</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,570.388,285.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">M</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,570.388,297.398)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">mowsh</text>
+        </g>
+        <g id="text4637" transform="matrix(1,0,0,1,874.439,351.859)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">↑  jeep</text>
+        </g>
+        <g id="rect44361" transform="matrix(1,0,0,1,-14.8042,-667.661)">
+            <path d="M943.92,970.46C943.92,969.069 942.791,967.94 941.4,967.94L885.24,967.94C883.849,967.94 882.72,969.069 882.72,970.46L882.72,992.87C882.72,994.261 883.849,995.39 885.24,995.39L941.4,995.39C942.791,995.39 943.92,994.261 943.92,992.87L943.92,970.46Z" style="fill:none;stroke:rgb(234,234,234);stroke-width:1.44px;"/>
+        </g>
+        <g id="text46371" transform="matrix(1,0,0,1,895.266,311.775)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(186,186,186);">jeep</text>
+            <text x="0px" y="10px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(186,186,186);">way</text>
+        </g>
+        <g id="rect44362" transform="matrix(1,0,0,1,-14.8042,-566.401)">
+            <path d="M943.92,970.46C943.92,969.069 942.791,967.94 941.4,967.94L885.24,967.94C883.849,967.94 882.72,969.069 882.72,970.46L882.72,992.87C882.72,994.261 883.849,995.39 885.24,995.39L941.4,995.39C942.791,995.39 943.92,994.261 943.92,992.87L943.92,970.46Z" style="fill:none;stroke:rgb(234,234,234);stroke-width:1.44px;"/>
+        </g>
+        <g id="text46372" transform="matrix(1,0,0,1,892.717,413.788)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(186,186,186);">doom</text>
+            <text x="0px" y="10px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(186,186,186);">way</text>
+        </g>
+        <g id="text46373" transform="matrix(1,0,0,1,874.474,318.048)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(186,186,186);">↑↑</text>
+        </g>
+        <g id="text46374" transform="matrix(1,0,0,1,874.474,420.632)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(186,186,186);">↓↓</text>
+        </g>
+        <g id="text4647" transform="matrix(1,0,0,1,804.939,386.162)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;">←</text>
+            <text x="15.955px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">crimp</text>
+        </g>
+        <g id="text46471" transform="matrix(1,0,0,1,804.939,351.859)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(186,186,186);">←←lefty</text>
+        </g>
+        <g id="text46472" transform="matrix(1,0,0,1,939.288,352.584)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(186,186,186);">→→ricky</text>
+        </g>
+        <g id="text4651" transform="matrix(1,0,0,1,874.439,385.609)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">↓ doom</text>
+        </g>
+        <g id="text4655" transform="matrix(1,0,0,1,942.939,385.609)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">→ chris</text>
+        </g>
+        <g id="rect4368" transform="matrix(1,0,0,1,0,-633.86)">
+            <path d="M118.17,835.46C118.17,834.069 117.041,832.94 115.65,832.94L25.74,832.94C24.349,832.94 23.22,834.069 23.22,835.46L23.22,891.62C23.22,893.011 24.349,894.14 25.74,894.14L115.65,894.14C117.041,894.14 118.17,893.011 118.17,891.62L118.17,835.46Z" style="fill:none;stroke:rgb(234,234,234);stroke-width:1.44px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-298,-121.936)">
+            <ellipse cx="10.551" cy="13.83" rx="4.011" ry="4.447" style="fill:none;stroke:rgb(234,234,234);stroke-width:1.4px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-298,-121.936)">
+            <ellipse cx="1607.31" cy="649.677" rx="3.404" ry="4.639" style="fill:none;stroke:rgb(234,234,234);stroke-width:1.4px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+    </g>
+    <g id="tmp">
+        <g transform="matrix(0.99999,0,0,1,378.258,204.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">!</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,417.625,204.836)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(210,210,210);">1</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,378.258,216.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">clamor</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,324.953,208.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">`</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,324.953,216.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">tinker</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,324.953,228.025)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">~</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,324.953,240.025)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">tilde</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1051.71,216.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">minus</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1086.6,284.407)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">b<tspan x="6.959px 11.629px 17.766px 23.29px " y="0px 0px 0px 0px ">rack</tspan></text>
+            <text x="29.921px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">o</text>
+            <text x="36.507px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">r</text>
+            <text x="41.287px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">p</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1103.1,351.655)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">q<tspan x="7.069px 14.073px 20.319px 24.557px 30.192px 37.196px " y="0px 0px 0px 0px 0px 0px ">uatche</tspan></text>
+            <text x="43.421px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">t</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1035.6,352.012)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">sunk</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1001.85,419.404)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">dot</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,934.349,419.404)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">comma</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1069.59,419.404)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">slash</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1153.95,284.407)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">b<tspan x="6.959px 11.629px 17.766px 23.29px " y="0px 0px 0px 0px ">rack</tspan></text>
+            <text x="29.921px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">o</text>
+            <text x="36.507px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">r</text>
+            <text x="41.287px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">p</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1052.79,227.025)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">_</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1087.01,295.586)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">{</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1103.51,363.835)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">&quot;</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1036.01,363.191)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">:</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1002.26,430.583)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">&gt;</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,934.757,430.583)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">&lt;</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1070,431.583)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">?</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1154.36,295.586)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">}</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1052.29,240.025)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">crunder</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1087.18,307.586)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">k<tspan x="6.631px 9.878px 14.549px 21.18px 27.069px 33.765px " y="0px 0px 0px 0px 0px 0px ">irksor</tspan></text>
+            <text x="38.435px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">p</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1103.68,372.835)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">q<tspan x="7.069px 14.073px 20.319px 24.557px 30.192px 37.196px " y="0px 0px 0px 0px 0px 0px ">uatche</tspan></text>
+            <text x="43.421px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">s</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1036.18,373.191)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">colon</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1002.43,442.583)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">rangle</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,934.929,442.583)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">clangle</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1070.17,442.583)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">questo</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1154.53,307.586)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">kirkose</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,445.758,204.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">@</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,485.125,204.836)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(210,210,210);">2</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,445.758,216.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">at sign</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,445.758,204.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">@</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,445.758,216.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">at sign</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,513.258,204.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">#</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,552.625,204.836)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(210,210,210);">3</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,513.258,216.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">pound</text>
+            <text x="0px" y="12px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">sign</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,580.798,204.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">$</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,648.258,204.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">%</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,715.798,204.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">^</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,783.298,204.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">&amp;</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,850.412,204.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">*</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,918.357,204.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">(</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,985.718,204.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">)</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,620.166,204.836)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(210,210,210);">4</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,687.625,204.836)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(210,210,210);">5</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,755.166,204.836)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(210,210,210);">6</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,822.666,204.836)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(210,210,210);">7</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,889.779,204.836)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(210,210,210);">8</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,957.725,204.836)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(210,210,210);">9</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1025.08,204.836)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(210,210,210);">0</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,580.798,216.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">dolly</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,648.258,216.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">percent</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,715.798,216.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">caret</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,783.298,216.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">and</text>
+            <text x="0px" y="12px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">sign</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,850.412,216.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">star</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,918.357,216.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">precorp</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,985.718,216.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(105,105,105);">prekose</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1051.64,204.775)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">-</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1086.53,272.337)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">[</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1103.03,342.585)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">&apos;</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1035.53,339.941)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">;</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1001.78,407.334)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">.</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,934.279,407.334)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">,</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1069.52,407.334)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">/</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1153.88,272.337)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">]</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1222.71,284.407)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">shalls</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1223.12,295.586)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">|</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1223.29,307.586)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">spike</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1222.64,272.337)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(166,166,166);">\</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1119.4,216.846)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">smaqual</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1118.79,229.122)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">+</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1119.98,240.025)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(105,105,105);">plus</text>
+        </g>
+        <g transform="matrix(0.99999,0,0,1,1119.33,204.775)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(166,166,166);">=</text>
+        </g>
+    </g>
+</svg>
