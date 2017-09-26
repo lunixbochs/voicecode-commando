@@ -12,7 +12,7 @@ SKIP_PACKAGE = [
 ]
 
 def repl_run(expr):
-    p = subprocess.Popen(['rc', '/tmp/repl/voicecode_production.sock'], stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    p = subprocess.Popen(['nc', '-U', '/tmp/repl/voicecode_production.sock'], stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     out, err = p.communicate('console.log(JSON.stringify(' + expr + '))\n.exit\n')
     if err.strip():
         raise Exception(err)
