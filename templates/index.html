@@ -56,7 +56,7 @@ html, body, .container {
     {% for letter, spoken in letters.items() %}
     <div class="action action-letter">
         <div class="action-spoken">{{ spoken }}</div>
-        <div class="action-desc">{{ spoken[0]|upper }}</div>
+        <div class="action-desc">{{ letters|upper }}</div>
     </div>
     {% endfor %}
 </div>
